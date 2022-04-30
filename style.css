@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+     max-width:600px ;
+     margin:10px ;
+}
+
+
+input{
+    width: 32%;
+    margin: 5px 0px;
+}
+input[type=submit]{
+width:32%;
+margin: 5px 2px;
+    
+}
+
+
+table{
+    
+    width: 100%;
+    border-spacing: 0;
+    
+
+}
+td,th{
+    height: 50px;
+}
+
+th{
+    background-color: #FFC108;
+    
+}
+th:nth-of-type(2){
+    background-color: #E8AE31;
+    
+}
+
+
+
+td{
+    background-color: #392B6F;
+    border: 1px solid #FFC108;
+    color: white;
+    padding: 10px;
+    
+}
